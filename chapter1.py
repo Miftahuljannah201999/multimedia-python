@@ -1,4 +1,3 @@
-# Contoh kode instalasi dan setup
 import pygame
 import PIL
 import cv2
